@@ -128,4 +128,4 @@ The frontend will open in the browser at `http://localhost:3000` (or default Rea
 * Ensure `weather-backend` server is running before using the frontend.
 
 ## Screenshot
-![Home Page](images/screenshot1.png)
+![Home Page](https://github.com/Rachana16-2004/Weather-Forecast-Application/blob/main/Screenshot%202025-11-22%20224145.png?raw=true)
