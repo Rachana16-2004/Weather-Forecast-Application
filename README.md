@@ -126,3 +126,6 @@ The frontend will open in the browser at `http://localhost:3000` (or default Rea
 * Backend uses mock weather data; no external API key is needed.
 * MySQL database must be running locally with the configured schema.
 * Ensure `weather-backend` server is running before using the frontend.
+
+## Screenshot
+![Home Page](images/screenshot1.png)
