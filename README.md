@@ -6,7 +6,7 @@ A full-stack weather forecast web application built with **React (Frontend)** an
 
 ## 📁 Project Structure
  
-```
+``` 
 weather-app/
 │
 ├─ weather-backend/
