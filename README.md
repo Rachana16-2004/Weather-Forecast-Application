@@ -8,7 +8,7 @@ A full-stack weather forecast web application built with **React (Frontend)** an
  
 ``` 
 weather-app/
-│
+│ 
 ├─ weather-backend/
 │   ├─ server.js
 │   ├─ db.js
